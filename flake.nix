@@ -1,5 +1,5 @@
 {
-  description = "A very basic flake";
+  description = "Play a mix of pink and brown noise";
 
   inputs.flake-utils.url = "github:numtide/flake-utils";
 
